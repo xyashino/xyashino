@@ -1,7 +1,8 @@
 
 # Hello, I'm Szczepan 👋
 
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) \
+
 `xyashino@gmail.com`
 
 ## I'm a TypeScript Fullstack Developer !

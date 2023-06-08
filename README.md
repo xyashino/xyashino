@@ -21,8 +21,10 @@
 ## I'm a TypeScript Fullstack Developer !
 
 - 🔭 I'm currently working on [AUTHENTICATION APP](https://github.com/xyashino/Authentication-FE)
-- 🎓 I'm currently learning 
+- 🎓 I'm currently learning
+ 
 ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ###  *Languages*
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)

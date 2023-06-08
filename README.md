@@ -5,6 +5,19 @@
 
 `xyashino@gmail.com`
 
+## MY PROJECTS
+- _**MegaK-Head-Hunter**_
+  - [FRONTEND](https://github.com/xyashino/MegaK-Head-Hunter-Front)
+  - [BACKEND](https://github.com/xyashino/MegaK-Head-Hunter-BACK)
+- _**Parish-Webpage**_
+  - [FRONTEND - CLIENT](https://github.com/xyashino/parish-webpage-front)
+  - [BACKEND](https://github.com/xyashino/parish-webpage-backend)
+  - [FRONTEND - ADMIN PANEL](https://github.com/xyashino/parish-webpage-adminpannel) 
+- _**Authentication**_
+  - [FRONTEND](https://github.com/xyashino/Authentication-FE.git)
+  - [BACKEND](https://github.com/xyashino/Authentication-BE.git)  
+
+
 ## I'm a TypeScript Fullstack Developer !
 
 - 🔭 I'm currently working on [AUTHENTICATION APP](https://github.com/xyashino/Authentication-FE)

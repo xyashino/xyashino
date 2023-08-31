@@ -20,10 +20,10 @@
 
 ## I'm a TypeScript Fullstack Developer !
 
-- 🔭 I'm currently working on [AUTHENTICATION APP](https://github.com/xyashino/Authentication-FE)
+- 🔭 I'm currently working on [NEXT PARISH APP](https://github.com/xyashino/parish-web-page-next-v2)
 - 🎓 I'm currently learning
  
-![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NEXT](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=next)
 ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ###  *Languages*

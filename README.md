@@ -1,9 +1,12 @@
 
 # Hello, I'm Szczepan 👋
 
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+### EMAIL: 
+```
+xyashino@gmail.com
+``` 
 
-`xyashino@gmail.com`
+### ME WEBSITE 🌐 : [LINK](https://yashino.live)
 
 ## MY PROJECTS
 - _**MegaK-Head-Hunter**_
@@ -12,7 +15,8 @@
 - _**Parish-Webpage**_
   - [FRONTEND - CLIENT](https://github.com/xyashino/parish-webpage-front)
   - [BACKEND](https://github.com/xyashino/parish-webpage-backend)
-  - [FRONTEND - ADMIN PANEL](https://github.com/xyashino/parish-webpage-adminpannel) 
+  - [FRONTEND - ADMIN PANEL](https://github.com/xyashino/parish-webpage-adminpannel)
+  - [NEXT-VERSION](https://github.com/xyashino/parish-webpage-next)
 - _**Authentication**_
   - [FRONTEND](https://github.com/xyashino/Authentication-FE.git)
   - [BACKEND](https://github.com/xyashino/Authentication-BE.git)  
@@ -20,12 +24,9 @@
 
 ## I'm a TypeScript Fullstack Developer !
 
-- 🔭 I'm currently working on [NEXT PARISH APP](https://github.com/xyashino/parish-web-page-next-v2)
-- 🎓 I'm currently learning
+- 🔭 I'm currently working on 
+- 🎓 I'm currently learning ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
  
-![NEXT](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=next)
-![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
 ###  *Languages*
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 

@@ -1,14 +1,16 @@
 
-# Hello, I'm Szczepan 👋
+# Hello, I'm Szczepan 👋 passionate programmer.
 
-### EMAIL: 
-```
-xyashino@gmail.com
-``` 
+### How to reach me ?
+**Email:** xyashino@gmail.com
 
-### ME WEBSITE 🌐 : [LINK](https://yashino.live)
+**Linkedin:** https://www.linkedin.com/in/xyashino
+
+### MY WEBSITE 🌐 : https://yashino.live
+This is the beast way to check my projects, they are cleary displayed (by videos) and described
 
 ## MY PROJECTS
+  - **Parish-Webpage-Next-Version:** [link](https://github.com/xyashino/parish-webpage-next)
 - _**MegaK-Head-Hunter**_
   - [FRONTEND](https://github.com/xyashino/MegaK-Head-Hunter-Front)
   - [BACKEND](https://github.com/xyashino/MegaK-Head-Hunter-BACK)
@@ -16,23 +18,19 @@ xyashino@gmail.com
   - [FRONTEND - CLIENT](https://github.com/xyashino/parish-webpage-front)
   - [BACKEND](https://github.com/xyashino/parish-webpage-backend)
   - [FRONTEND - ADMIN PANEL](https://github.com/xyashino/parish-webpage-adminpannel)
-  - [NEXT-VERSION](https://github.com/xyashino/parish-webpage-next)
 - _**Authentication**_
   - [FRONTEND](https://github.com/xyashino/Authentication-FE.git)
   - [BACKEND](https://github.com/xyashino/Authentication-BE.git)  
 
 
 ## I'm a TypeScript Fullstack Developer !
-
-- 🔭 I'm currently working on 
-- 🎓 I'm currently learning  ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
  
 ###  *Languages*
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ###  *Technologies & Frameworks*
-![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -47,6 +45,4 @@ xyashino@gmail.com
 
 ## *Stats*
 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=xyashino&" alt="xyashino" /></p>
-
-<p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=xyashino&show_icons=true&locale=en" alt="xyashino" /></p>
+<div align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=xyashino&" alt="xyashino" /> </div>
